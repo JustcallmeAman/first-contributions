@@ -17,7 +17,7 @@
 - [Taha Jalili](https://github.com/tahajalili/first-contributions)
 - [Michael airola](https://github.com/michaelairola)
 - [Shanthanu Rai](https://github.com/shanthanu9)
-- [Amanuel Zelealem](https://github.com/JustcallmeAman/first-contributions)
+- [Amanuel Zelealem](https://github.com/JustcallmeAman)
 - [Akash Sharma](https://github.com/akashsharma99)
 - [Subi Dangol](https://github.com/subidangol)
 - [Jason Secrest](https://github.com/jsecrest)
